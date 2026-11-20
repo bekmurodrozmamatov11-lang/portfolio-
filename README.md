@@ -16,3 +16,9 @@ Professional dasturchi bo‘lish.
 
 ## Aloqa
 GitHub orqali bog‘lanish mumkin.
+## Mening loyihalarim
+1. Portfolio
+2. Kitoblar olami
+
+## Xulosa
+Men dasturlashni davom ettiraman.
